@@ -11,5 +11,5 @@ Build script to generate a nerd font based on Iosevka Extended.
 
 ## Usage
 
-  $ ./build.sh
-  $ mv iosevka-extended-nerd /usr/local/share/fonts/
+    $ ./build.sh
+    $ mv iosevka-extended-nerd /usr/local/share/fonts/
